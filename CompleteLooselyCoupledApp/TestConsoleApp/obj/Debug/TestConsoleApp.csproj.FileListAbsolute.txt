@@ -1,0 +1,16 @@
+C:\Users\tfladmin\source\repos\CompleteLooselyCoupledApp\TestConsoleApp\bin\Debug\TFLGreenhouse.mdf
+C:\Users\tfladmin\source\repos\CompleteLooselyCoupledApp\TestConsoleApp\bin\Debug\TFLGreenhouse_log.ldf
+C:\Users\tfladmin\source\repos\CompleteLooselyCoupledApp\TestConsoleApp\bin\Debug\TestConsoleApp.exe.config
+C:\Users\tfladmin\source\repos\CompleteLooselyCoupledApp\TestConsoleApp\bin\Debug\TestConsoleApp.exe
+C:\Users\tfladmin\source\repos\CompleteLooselyCoupledApp\TestConsoleApp\bin\Debug\TestConsoleApp.pdb
+C:\Users\tfladmin\source\repos\CompleteLooselyCoupledApp\TestConsoleApp\bin\Debug\BLL.dll
+C:\Users\tfladmin\source\repos\CompleteLooselyCoupledApp\TestConsoleApp\bin\Debug\BOL.dll
+C:\Users\tfladmin\source\repos\CompleteLooselyCoupledApp\TestConsoleApp\bin\Debug\DAL.dll
+C:\Users\tfladmin\source\repos\CompleteLooselyCoupledApp\TestConsoleApp\bin\Debug\BLL.pdb
+C:\Users\tfladmin\source\repos\CompleteLooselyCoupledApp\TestConsoleApp\bin\Debug\BOL.pdb
+C:\Users\tfladmin\source\repos\CompleteLooselyCoupledApp\TestConsoleApp\bin\Debug\DAL.pdb
+C:\Users\tfladmin\source\repos\CompleteLooselyCoupledApp\TestConsoleApp\obj\Debug\TestConsoleApp.csprojAssemblyReference.cache
+C:\Users\tfladmin\source\repos\CompleteLooselyCoupledApp\TestConsoleApp\obj\Debug\TestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tfladmin\source\repos\CompleteLooselyCoupledApp\TestConsoleApp\obj\Debug\TestConsoleApp.csproj.CopyComplete
+C:\Users\tfladmin\source\repos\CompleteLooselyCoupledApp\TestConsoleApp\obj\Debug\TestConsoleApp.exe
+C:\Users\tfladmin\source\repos\CompleteLooselyCoupledApp\TestConsoleApp\obj\Debug\TestConsoleApp.pdb
